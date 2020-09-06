@@ -1,6 +1,7 @@
 [![Header](https://github.com/codenswan/codenswan/blob/master/Tech%20Base.png "Header")](https://some-url.dev/)
 
-### Hi there [!](https://github.com/codenswan/codenswan/blob/master/wave.gif)
+### Hi there <img src="https://github.com/codenswan/codenswan/blob/master/wave.gif" width="30px">
+
 
 <!--
 **codenswan/codenswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
